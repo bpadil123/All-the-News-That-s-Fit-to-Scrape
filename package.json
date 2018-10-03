@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/roverkim/All-the-News-That-s-Fit-to-Scrape.git"
+    "url": "https://github.com/bpadil123/All-the-News-That-s-Fit-to-Scrape"
   },
-  "author": "Ryan",
+  "author": "Brian",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/roverkim/All-the-News-That-s-Fit-to-Scrape/issues"
+    "url": "https://github.com/bpadil123/All-the-News-That-s-Fit-to-Scrape/issues"
   },
-  "homepage": "https://github.com/roverkim/All-the-News-That-s-Fit-to-Scrape#readme",
+  "homepage": "https://github.com/bpadil123/All-the-News-That-s-Fit-to-Scrape#readme",
   "dependencies": {
     "axios": "^0.17.1",
     "body-parser": "^1.18.2",
